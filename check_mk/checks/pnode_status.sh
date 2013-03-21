@@ -2,6 +2,9 @@
 # Percona node status script
 # To be used with nagios/check_mk to determine
 # the node health of a Percona XtraDB Cluster node
+#
+# Place me in /usr/lib/check_mk_agent/local on the client
+#
 # Originally written by Scott Larson of Wiredrive
 # Modified by Kyle Gato <kyle.gato@gmail.com>
 
